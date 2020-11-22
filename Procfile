@@ -1,2 +1,0 @@
-Web: gunicorn DeployModel.wsgi
-
