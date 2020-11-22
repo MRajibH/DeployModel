@@ -25,7 +25,7 @@ SECRET_KEY = 'afhw+_@%(4lef9cm94t(s62@5425f#(ny1ue@xof#@v@gg)!ib'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['12.0.0.1']
+ALLOWED_HOSTS = ['12.0.0.1,'suicide-risk-checker.herokuapp.com']
 
 
 # Application definition
